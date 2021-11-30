@@ -2,9 +2,9 @@
 
 # Timeline
 
-Project Proposal            & Paper (professional)  & Group       & 5 & Nov 21 
-Data Report                 & Paper (professional)  & Group       & 10 & Dec 3 
-Final Project               & Jupyter notebook      & Group       & 85 & Dec 23
+Project Proposal            & Paper (professional)  & Group       & 5 & Nov 21 \\
+Data Report                 & Paper (professional)  & Group       & 10 & Dec 3 \\
+Final Project               & Jupyter notebook      & Group       & 85 & Dec 23\\
 
 # Requirement: Data report
 
