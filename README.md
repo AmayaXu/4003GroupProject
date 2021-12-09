@@ -15,6 +15,8 @@ already to make sure you have it. Include your Python code.
 Internet sources are preferred, because it allows others to use your code and
 follow up on your work.
 
+**PS. Nice template found by @rzz: ** https://github.com/EnviloN/SteamGamesEDA/blob/master/eda/SteamGamesEDA.ipynb
+
 # Requirement: Final project
 
 You should submit your notebook to Brightspace by the due date listed
